@@ -11,5 +11,6 @@ tags: [Github Page,Jekyll]
 准备一张大小为 512x512 或更大的方形图像（PNG、JPG 或 SVG），然后转到在线工具[**Real Favicon Generator**](https://realfavicongenerator.net/) 生成`.ico`文件。下载生成的包，解压并从解压的文件中删除以下两个：
 - `browserconfig.xml`
 - `site.webmanifest`  
-
 然后复制剩余的图像文件（和）以覆盖 Jekyll 站点目录中的原始文件。
+
+## 侧边栏设置背景图片

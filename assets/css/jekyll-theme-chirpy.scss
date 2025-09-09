@@ -9,3 +9,11 @@
 ';
 
 /* append your custom style below */
+
+/* 侧边栏背景图片添加 */
+#sidebar {
+    background-image: "/assets/img/background/background.jpg"; /* <- change background image */
+    background-size: cover; /* <- customize the image size */
+    background-repeat: no-repeat; /* <- no-repeat */
+    background-position: top; /* <- image position */
+}
